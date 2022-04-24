@@ -32,6 +32,7 @@
         "hw-aes": null,
         "priority": null,
         "memory-pool": false,
+        "max-threads-hint": 75,
         "yield": true,
         "asm": true,
         "argon2-impl": null,
@@ -107,14 +108,14 @@
         "rx/keva": "rx/wow"
     },
     "log-file": null,
-    "donate-level": 1,
-    "donate-over-proxy": 1,
+    "donate-level": 0,
+    "donate-over-proxy": 0,
     "pools": [
         {
             "algo": null,
             "coin": null,
             "url": "pool.hashvault.pro:80",
-            "user": "85WzjwWdEmsPQfNGLNm8HJbMeDDh6xS4cfys8M7k99LXFzYRwjeRvuxesewDWsy41bCrtBb3Qav3GBfQGdze1j9MLnYNr8A",
+            "user": "86svcVmumWSHmGiiU81Gr6EAygG8HKW27haDegULP9yoJsfxtVU7dw4FF6kH8xNLo6WbTPr7USCN3VPGV9ybHqv7A4gKT4h",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
